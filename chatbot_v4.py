@@ -27,6 +27,7 @@ responses = {
     "sports": ["Forms of exercise done to keep fit!", "Badminton, football, tennis, squash, basketball etc."],
     "food": ["Food is any substance consumed by an organism for nutritional support.", "This includes meat, eggs, shellfish and dairy products like milk and cheese."],
     "python": ["Python is a programming language that lets you work quickly!", "Friendly & Easy to Learn!", "Calculations are simple with Python!"],
+    "technology": ["An emerging field with different niches.", " technology is broud", "A field that interest almost everyone."]
 }
 
 
